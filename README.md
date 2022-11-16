@@ -9,6 +9,8 @@
 ## Hello rails back-end
 > Hello rails app. This exercise is to create a React front-end with a Rails back-end and connect them to display a random message.
 
+Front-end - [React App](https://github.com/abdulhamiid/hello-react-front-end/tree/feature-connect-backend-api)
+
 ## Built With
 
 - Ruby
