@@ -51,6 +51,10 @@ rake db:migrate
 ```
 rake db:seed
 ```
+Start the server with
+```
+rails s
+```
 
 
 ## Author
